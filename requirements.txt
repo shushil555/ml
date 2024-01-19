@@ -1,6 +1,7 @@
  pandas
  numpy
  seaborn
+ flask
 matplotlib
 scikit-learn
 dill
